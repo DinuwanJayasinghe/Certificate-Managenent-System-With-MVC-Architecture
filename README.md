@@ -12,6 +12,9 @@ This report provides an exhaustive analysis of the system's functional and non-f
 
 ![image](https://github.com/user-attachments/assets/a44943ce-1dcb-4eb0-94b9-af0d0df6b87d)
 
+![image](https://github.com/user-attachments/assets/6f641bb0-3ba0-4b78-ba42-de588b25460a)
+
+
 # ER Diagram
 
 ![image](https://github.com/user-attachments/assets/0b95febc-1474-45f7-857e-125154b9bbc4)
