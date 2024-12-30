@@ -10,10 +10,15 @@ to systematically oversee certifications, monitor expiration schedules, and prod
 
 This report provides an exhaustive analysis of the system's functional and non-functional requirements, supplemented by a granular exploration of the implementation of the MVC architecture.
 
+---
+
+# Screenshorts
+
 ![image](https://github.com/user-attachments/assets/a44943ce-1dcb-4eb0-94b9-af0d0df6b87d)
 
 ![image](https://github.com/user-attachments/assets/6f641bb0-3ba0-4b78-ba42-de588b25460a)
 
+---
 
 # ER Diagram
 
